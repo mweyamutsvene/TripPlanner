@@ -1,3 +1,5 @@
+[← Back to Home](index.md)
+
 # Cultural Notes – Taiwan 🇹🇼 & Japan 🇯🇵
 
 Prepared for U.S.-based travelers. These notes cover etiquette, customs, and practical tips that differ from what you're used to at home.

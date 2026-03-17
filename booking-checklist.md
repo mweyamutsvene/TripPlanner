@@ -1,3 +1,5 @@
+[← Back to Home](index.md)
+
 # Booking & Prep Checklist – Taiwan & Japan Trip
 
 **Trip dates:** March 26 – April 4, 2026

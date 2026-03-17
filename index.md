@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 🌸 旅の計画 — Taiwan & Japan 2026
 ---
 
 ![Banner](assets/banner.svg)

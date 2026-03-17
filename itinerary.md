@@ -1,3 +1,5 @@
+[← Back to Home](index.md)
+
 # Daily Itinerary – Taiwan 🇹🇼 & Japan 🇯🇵
 
 **Group:** 3 adults + 2 children (ages 13 & 10)
