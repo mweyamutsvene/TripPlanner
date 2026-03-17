@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Japan Trip 2026
+# 🌸 旅の計画 — Taiwan & Japan 2026
 
-Welcome to our trip planning hub! Click any section below to view the details.
+Family adventure through Taipei, Tokyo & Osaka · March 28 – April 4
 
 - [📅 Itinerary](itinerary.md) — Day-by-day schedule
 - [💰 Budget](budget.md) — Cost breakdown and tracker
