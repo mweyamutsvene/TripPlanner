@@ -7,6 +7,7 @@
 
 ## ⚡ DO NOW (Before March 20)
 
+- [ ] **🚨 Book teamLab Planets tickets** — Book NOW at teamlabplanets.dmm.com for April 1, 4:00 PM slot. Dynamic pricing = earlier is cheaper. Cherry blossom season slots sell out.
 - [ ] **🚨 Book Klook private transfer — Narita to Asakusa** — Do this TODAY. Cherry blossom season means minivans for 5+ passengers sell out fast. Free cancellation if plans change. See full booking details in the "Book in Advance" section below.
 - [ ] **Visit Japan Web registration** — Pre-register immigration & customs declarations for all 5 travelers at https://vjw-lp.digital.go.jp/en/. This creates a QR code that speeds up Narita immigration. Do this 1-2 days before your March 30 Japan arrival at the latest, but you can start now.
 - [x] **Internet access** — Using **Verizon TravelPass** ($10/day per line, only charged on days you use it in Taiwan/Japan). Make sure TravelPass is enabled on your Verizon account before departure. It activates automatically when you use data abroad.
@@ -60,10 +61,36 @@
 - Driver meets you in Terminal 1 arrivals holding a name sign
 - **Cancellation:** Check policy at booking — typically free cancellation 24–48 hrs before
 
+### teamLab Planets (April 1) ⚠️ BOOK NOW
+- **Book tickets at teamlabplanets.dmm.com** — choose a **4:00 PM** time slot for April 1
+- Dynamic pricing — earlier you book = cheaper. Popular time slots sell out during cherry blossom season
+- Adults: ¥4,200+ (~$28), 13yo (JHS): ¥2,800 (~$19), 10yo (child): ¥1,500 (~$10)
+- Group total: ~¥17,100 (~$114)
+- **What to know:** You walk barefoot through knee-deep water. Bring shorts or use free rental shorts. Free lockers for bags
+
+### Tokyo Tower (April 1)
+- Main Deck: ¥1,500/person (~$10). Both Decks: ¥3,500/person (top deck at 250m)
+- **Buy online** at tokyotower.co.jp for ¥200 discount on Both Decks option (¥3,300 vs ¥3,500)
+- Can also buy on the day — walk-up is fine, but online saves time
+- Hours: 9:00–23:00 daily, no closing days
+
 ### Tokyo National Museum (March 31)
 - General admission: ¥1,000/adult (~$7 USD). Ages 17 and under: free.
 - No advance booking needed, but purchasing online speeds things up.
 - Hours: 9:30–17:00 (Tuesday–Sunday). Closed Mondays — **you're going Tuesday, you're fine.**
+
+### Nankai Rapi:t Express — Osaka to KIX (April 4)
+- **Nankai limited express** from Namba Station to Kansai Airport (KIX)
+- Ride: ~35–40 min, non-stop to KIX Terminal 1
+- **Fares:** Regular seat ¥1,450/adult, ~¥730/child. Super Seat ¥1,660/adult. Group total: ~¥6,530 regular
+- **No advance booking required** — buy tickets at Namba Station on the morning of April 4:
+  1. Enter **Nankai Namba Station** (south side of Namba complex, ~500m from Airbnb). Look for 南海 signs — separate from the subway
+  2. Go to 3rd floor departure area. Buy tickets at the counter (English spoken) or machines (English mode available)
+  3. You need both a base fare ticket + limited express ticket (bought together)
+  4. Board on **Platform 9** (dedicated Rapi:t platform)
+- Trains depart ~every 30 min from 6:00 AM. Take the **~7:45 AM departure** to arrive KIX by ~8:25 AM
+- Alternative: buy via **Klook** (search "Nankai Rapi:t") for e-tickets at a slight discount
+- Budget fallback: Nankai **Airport Express** (non-limited) is ¥930/person, ~45 min, no reserved seats
 
 ---
 
@@ -130,14 +157,14 @@
 
 | When | Action |
 |------|--------|
-| **Now (March 14)** | Visit Japan Web, enable Verizon TravelPass, bank notifications, Shinkansen booking via SmartEX |
-| **By March 20** | Osaka Castle e-tickets, offline maps downloaded, packing started |
-| **By March 25** | Cash exchanged, bags packed, documents printed |
+| **Now (March 17)** | Visit Japan Web, enable Verizon TravelPass, bank notifications, Shinkansen booking via SmartEX, **book teamLab Planets tickets**, book Klook Narita transfer |
+| **By March 20** | Osaka Castle e-tickets, Tokyo Tower online tickets, offline maps downloaded, packing started |
+| **By March 25** | Cash exchanged, bags packed, documents printed, Scoot/Tigerair baggage confirmed |
 | **March 26** | Depart SLC 8:40 PM |
 | **March 28** | Arrive Taipei — buy EasyCards |
 | **March 30** | Arrive Tokyo — Klook private transfer to Asakusa, get IC cards |
 | **April 2** | Shinkansen day — have SmartEX tickets ready |
-| **April 4** | Depart Osaka → Home |
+| **April 4** | Buy Nankai Rapi:t tickets at Namba Station morning of departure → KIX → Taipei → Home |
 
 ---
 
