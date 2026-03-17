@@ -5,8 +5,6 @@ title: 🌸 旅の計画 — Taiwan & Japan 2026
 
 ![Banner](assets/banner.svg)
 
-## 🌸 旅の計画 — Taiwan & Japan 2026
-
 - [📅 Itinerary](itinerary.md) — Day-by-day schedule
 - [💰 Budget](budget.md) — Cost breakdown and tracker
 - [🍣 Dinner Guide](dinner-guide.md) — Restaurant picks and food recs
