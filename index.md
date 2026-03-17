@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# 🌸 旅の計画 — Taiwan & Japan 2026
+![Banner](assets/banner.svg)
 
-Family adventure through Taipei, Tokyo & Osaka · March 28 – April 4
+## 🌸 旅の計画 — Taiwan & Japan 2026
 
 - [📅 Itinerary](itinerary.md) — Day-by-day schedule
 - [💰 Budget](budget.md) — Cost breakdown and tracker
