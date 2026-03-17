@@ -342,6 +342,34 @@ Works exactly like Tokyo. Same IC card, same tap-in/tap-out system.
 5. Immigration → Security → Gate
 6. **Reminder:** Tigerair is a low-cost carrier — no included meals, no seatback entertainment
 
+> **Nankai Rapi:t Express — How to Book & Board**
+>
+> The Rapi:t (ラピート) is a retro-futuristic limited express designed by architect Hiroyuki Wakabayashi. Its navy blue exterior with oval windows gives it an aircraft-like look — the kids will love it. It won Japan's Blue Ribbon Award in 1995.
+>
+> **Fares (per person, one way):**
+> - Regular seat: ¥1,450 (¥520 base fare + ¥930 limited express surcharge)
+> - Super Seat (cars 5 & 6, extra legroom): ¥1,660
+> - Children (6–11): half price (~¥730 regular). The 10yo qualifies. The 13yo pays adult fare
+> - Under 6: free (if not occupying a seat)
+> - **Group total (3 adults + 2 kids):** ~¥6,530 regular / ~¥7,480 Super Seat
+>
+> **How to buy tickets:**
+> 1. **At Namba Station (easiest):** Go to the Nankai ticket office on the 2nd floor (manned counter, English spoken) or use the ticket machines near the Rapi:t gate. Look for signs saying 「ラピート」or "Rapi:t." Machines have English mode
+> 2. **Online via Nankai website:** Book at nankai.co.jp/en — select date, time, and seat. Pick up tickets at Namba Station ticket machines using your booking QR code
+> 3. **Via Klook:** Search "Nankai Rapi:t" on Klook for e-tickets at a slight discount. Show the QR code at the gate
+>
+> **At Namba Station — step by step:**
+> 1. Enter **Nankai Namba Station** (south side of the Namba complex, ~500m from your Airbnb). Follow signs for 南海 (Nankai) — it's separate from the subway
+> 2. Go to the **3rd floor departure area** for the Airport Express
+> 3. Buy your ticket at the counter or machine. You need both a **base fare ticket** and a **limited express ticket** (bought together)
+> 4. Board on **Platform 9** (dedicated Rapi:t platform)
+> 5. Trains depart roughly every 30 minutes from ~6:00 AM. For an 8:30 AM arrival at KIX, take the **~7:45 AM departure**
+> 6. Ride is 35–40 minutes, non-stop to KIX Terminal 1
+>
+> **On board:** All seats are reserved. Luggage space behind the last row of each car. Cars 3 and 5 have toilets. Clean, quiet, air-conditioned — a great way to end the Japan leg
+>
+> **Alternative:** The Nankai **Airport Express** (non-limited express) is slower (~45 min) but cheaper at ¥930 (no surcharge). No reserved seats. Same platform area
+
 ### Taipei Taoyuan (TPE) — Transit (April 4, afternoon)
 1. Arrive ~1:10 PM from Osaka
 2. Clear Taiwan immigration, collect bags
