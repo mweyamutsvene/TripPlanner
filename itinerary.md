@@ -93,6 +93,12 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 
 * Large 2 Bedroom Family Apartment – Q Square / Taipei Main Station
 * Booking: https://www.airbnb.com/l/X0FgPj1W
+* **Address:** Civic Boulevard, Datong District, Taipei City 10491
+
+**Check-in Directions:**
+
+* **By Taxi or Uber:** Have the driver drop you off across from **69 Hwa-Yin Street, Da-Tong, TAIPEI** (台北市大同區華陰街69號). The host will meet you at the entrance at your agreed check-in time.
+* **By Airport MRT (from Taipei Main Station):** After arriving at Taipei Station on the Airport MRT, go to the **B1 level** and follow signs to the **"old" Taipei Main Station**. Look for **Exit Y3** and follow the signs to the Y3 entrance. Turn left and take the escalator up to the ground floor. Once on the ground floor, enter the **Q Square mall** — go straight after entering the building and you will see a **Starbucks**. Meet the host at the corner of the Starbucks at your agreed check-in time.
 
 ---
 
@@ -127,6 +133,12 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 
 * Large 2 Bedroom Family Apartment – Q Square / Taipei Main Station
 * Booking: https://www.airbnb.com/l/X0FgPj1W
+* **Address:** Civic Boulevard, Datong District, Taipei City 10491
+
+**Check-in Directions:**
+
+* **By Taxi or Uber:** Have the driver drop you off across from **69 Hwa-Yin Street, Da-Tong, TAIPEI** (台北市大同區華陰街69號). The host will meet you at the entrance at your agreed check-in time.
+* **By Airport MRT (from Taipei Main Station):** After arriving at Taipei Station on the Airport MRT, go to the **B1 level** and follow signs to the **"old" Taipei Main Station**. Look for **Exit Y3** and follow the signs to the Y3 entrance. Turn left and take the escalator up to the ground floor. Once on the ground floor, enter the **Q Square mall** — go straight after entering the building and you will see a **Starbucks**. Meet the host at the corner of the Starbucks at your agreed check-in time.
 
 ---
 
@@ -181,7 +193,8 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 **Accommodation:**
 
 * **Sunbright Asakusa 101 – Two-Bedroom Apartment**
-* Address: 6-6-5 Asakusa, Taito City, Tokyo 111-0032
+* Address: 浅草６−６−５ SUNBRIGHT ASAKUSA 101号室, 台東区, Tokyo 111-0032, Japan
+* Map: https://maps.google.com/?q=35.715827,139.7997598
 * Booking.com confirmation: 5921.427.205
 
 ---
@@ -329,8 +342,12 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 
 **Accommodation:**
 
-* Osaka Airbnb – Nihonbashi / Namba area
+* **b&Namba 2** – Nihonbashi / Namba area
+* Reservation: HMPBXXYYAQ
+* Address: 2-chōme-5-2 Nipponbashinishi, Naniwa Ward, Osaka, 556-0004
+* Map: https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA
 * Booking: https://www.airbnb.com/l/3VwVOqsS
+* **Check-in note:** Check-in instructions sent at 12:10 AM on arrival day. If arriving early, luggage storage is available in the lobby (unattended — keep valuables with you).
 
 ---
 
@@ -385,8 +402,12 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 
 **Accommodation:**
 
-* Osaka Airbnb – Nihonbashi / Namba area
+* **b&Namba 2** – Nihonbashi / Namba area
+* Reservation: HMPBXXYYAQ
+* Address: 2-chōme-5-2 Nipponbashinishi, Naniwa Ward, Osaka, 556-0004
+* Map: https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA
 * Booking: https://www.airbnb.com/l/3VwVOqsS
+* **Check-in note:** Check-in instructions sent at 12:10 AM on arrival day. If arriving early, luggage storage is available in the lobby (unattended — keep valuables with you).
 
 ---
 

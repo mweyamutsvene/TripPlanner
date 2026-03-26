@@ -87,6 +87,7 @@ The Taipei MRT is one of the easiest subway systems in the world. Everything is 
 
 Works exactly like in the U.S. Same app, same interface.
 - **Airport pickup (Day 1):** Open Uber at TPE airport after clearing baggage. Set destination to your Airbnb address. Estimated fare: NT$1,000–1,400 (~$30–45).
+- **Airbnb drop-off instructions (Taxi or Uber):** Have the driver drop you off across from **69 Hwa-Yin Street, Da-Tong, TAIPEI** (台北市大同區華陰街69號). The host will meet you at the entrance at your agreed check-in time.
 - Payment: Your U.S. credit card on file works.
 - Drivers may call you in Mandarin — if this happens, text your location in the app's chat.
 
@@ -313,8 +314,8 @@ Works exactly like Tokyo. Same IC card, same tap-in/tap-out system.
 4. **Baggage claim** — check the screens for your flight's carousel number
 5. **Customs** — walk through the green "Nothing to Declare" lane
 6. Exit into the arrivals hall
-7. **Option A (recommended):** Open Uber app, request a ride. Pickup is at the designated ride-share area (follow signs to "Pickup" or "Uber")
-8. **Option B:** Follow signs to **Airport MRT** (桃園機場捷運) → take the Express to Taipei Main Station (~35 min, NT$160/person)
+7. **Option A — Uber/Taxi (recommended with luggage):** Open Uber app, request a ride. Pickup is at the designated ride-share area (follow signs to "Pickup" or "Uber"). Tell the driver to drop you off across from **69 Hwa-Yin Street, Da-Tong, TAIPEI** (台北市大同區華陰街69號). The host will meet you at the building entrance at your agreed check-in time.
+8. **Option B — Airport MRT:** Follow signs to **Airport MRT** (桃園機場捷運) → take the Express to Taipei Main Station (~35 min, NT$160/person). At Taipei Main Station, go to the **B1 level** and follow signs to the **"old" Taipei Main Station**. Look for **Exit Y3** and follow the signs to the Y3 entrance. Turn left and take the escalator up to the ground floor. Once on the ground floor, enter the **Q Square mall** — go straight after entering the building and you will see a **Starbucks**. Meet the host at the corner of the Starbucks at your agreed check-in time.
 
 ### Tokyo Narita (NRT) — Arrival (March 30, ~8:00 PM)
 1. **Immigration** — Use the **Visit Japan Web** QR code you registered beforehand. Show it at the counter along with your passport. This speeds things up significantly.
@@ -326,10 +327,10 @@ Works exactly like Tokyo. Same IC card, same tap-in/tap-out system.
    - **Cost:** ~¥25,000 total (~$167) — pre-paid on Klook
    - Fits all 5 passengers + luggage comfortably
    - Driver waits for you regardless of immigration delays (flight number is on the booking)
-7. Sit back and ride ~60–90 minutes to **Sunbright Asakusa 101** (6-6-5 Asakusa, Taito City). Driver drops you right at the door.
+7. Sit back and ride ~60–90 minutes to **Sunbright Asakusa 101** (浅草６−６−５, 台東区, Tokyo 111-0032). Driver drops you right at the door.
 
 > **Klook Booking Details**
-> - Book at **Klook.com** → search "Narita Airport Private Transfer" → select vehicle for 5+ passengers → enter destination: Sunbright Asakusa 101, 6-6-5 Asakusa, Taito City, Tokyo 111-0032
+> - Book at **Klook.com** → search "Narita Airport Private Transfer" → select vehicle for 5+ passengers → enter destination: Sunbright Asakusa 101, 浅草６−６−５ SUNBRIGHT ASAKUSA 101号室, 台東区, Tokyo 111-0032, Japan
 > - Choose arrival date March 30, flight Scoot TR874, landing 8:00 PM
 > - The provider (often PA Travel) will contact you the night before with driver details
 > - **Cancellation policy:** Check at time of booking — typically free cancellation 24–48 hours before
