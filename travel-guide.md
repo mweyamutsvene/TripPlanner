@@ -327,10 +327,10 @@ Works exactly like Tokyo. Same IC card, same tap-in/tap-out system.
    - **Cost:** ~¥25,000 total (~$167) — pre-paid on Klook
    - Fits all 5 passengers + luggage comfortably
    - Driver waits for you regardless of immigration delays (flight number is on the booking)
-7. Sit back and ride ~60–90 minutes to **Sunbright Asakusa 101** (6-6-5 Asakusa, Taito City). Driver drops you right at the door.
+7. Sit back and ride ~60–90 minutes to **Sunbright Asakusa 101** (浅草６−６−５, 台東区, Tokyo 111-0032). Driver drops you right at the door.
 
 > **Klook Booking Details**
-> - Book at **Klook.com** → search "Narita Airport Private Transfer" → select vehicle for 5+ passengers → enter destination: Sunbright Asakusa 101, 6-6-5 Asakusa, Taito City, Tokyo 111-0032
+> - Book at **Klook.com** → search "Narita Airport Private Transfer" → select vehicle for 5+ passengers → enter destination: Sunbright Asakusa 101, 浅草６−６−５ SUNBRIGHT ASAKUSA 101号室, 台東区, Tokyo 111-0032, Japan
 > - Choose arrival date March 30, flight Scoot TR874, landing 8:00 PM
 > - The provider (often PA Travel) will contact you the night before with driver details
 > - **Cancellation policy:** Check at time of booking — typically free cancellation 24–48 hours before
