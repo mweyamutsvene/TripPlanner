@@ -92,7 +92,7 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 **Accommodation:**
 
 * Large 2 Bedroom Family Apartment – Q Square / Taipei Main Station
-* Booking: https://www.airbnb.com/l/X0FgPj1W
+* Booking: [https://www.airbnb.com/l/X0FgPj1W](https://www.airbnb.com/l/X0FgPj1W)
 * **Address:** Civic Boulevard, Datong District, Taipei City 10491
 
 **Check-in Directions:**
@@ -132,7 +132,7 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 **Accommodation:**
 
 * Large 2 Bedroom Family Apartment – Q Square / Taipei Main Station
-* Booking: https://www.airbnb.com/l/X0FgPj1W
+* Booking: [https://www.airbnb.com/l/X0FgPj1W](https://www.airbnb.com/l/X0FgPj1W)
 * **Address:** Civic Boulevard, Datong District, Taipei City 10491
 
 **Check-in Directions:**
@@ -194,7 +194,7 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 
 * **Sunbright Asakusa 101 – Two-Bedroom Apartment**
 * Address: 浅草６−６−５ SUNBRIGHT ASAKUSA 101号室, 台東区, Tokyo 111-0032, Japan
-* Map: https://maps.google.com/?q=35.715827,139.7997598
+* Map: [https://maps.google.com/?q=35.715827,139.7997598](https://maps.google.com/?q=35.715827,139.7997598)
 * Booking.com confirmation: 5921.427.205
 
 ---
@@ -345,8 +345,8 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 * **b&Namba 2** – Nihonbashi / Namba area
 * Reservation: HMPBXXYYAQ
 * Address: 2-chōme-5-2 Nipponbashinishi, Naniwa Ward, Osaka, 556-0004
-* Map: https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA
-* Booking: https://www.airbnb.com/l/3VwVOqsS
+* Map: [https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA](https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA)
+* Booking: [https://www.airbnb.com/l/3VwVOqsS](https://www.airbnb.com/l/3VwVOqsS)
 * **Check-in note:** Check-in instructions sent at 12:10 AM on arrival day. If arriving early, luggage storage is available in the lobby (unattended — keep valuables with you).
 
 ---
@@ -405,8 +405,8 @@ This is a **day-by-day operational itinerary** aligned with your booked flights,
 * **b&Namba 2** – Nihonbashi / Namba area
 * Reservation: HMPBXXYYAQ
 * Address: 2-chōme-5-2 Nipponbashinishi, Naniwa Ward, Osaka, 556-0004
-* Map: https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA
-* Booking: https://www.airbnb.com/l/3VwVOqsS
+* Map: [https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA](https://maps.app.goo.gl/6zRCoUWQiJmuQYLDA)
+* Booking: [https://www.airbnb.com/l/3VwVOqsS](https://www.airbnb.com/l/3VwVOqsS)
 * **Check-in note:** Check-in instructions sent at 12:10 AM on arrival day. If arriving early, luggage storage is available in the lobby (unattended — keep valuables with you).
 
 ---

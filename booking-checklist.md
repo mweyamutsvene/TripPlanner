@@ -11,7 +11,7 @@
 
 - [ ] **🚨 Book teamLab Planets tickets** — Book NOW at teamlabplanets.dmm.com for April 1, 4:00 PM slot. Dynamic pricing = earlier is cheaper. Cherry blossom season slots sell out.
 - [ ] **🚨 Book Klook private transfer — Narita to Asakusa** — Do this TODAY. Cherry blossom season means minivans for 5+ passengers sell out fast. Free cancellation if plans change. See full booking details in the "Book in Advance" section below.
-- [ ] **Visit Japan Web registration** — Pre-register immigration & customs declarations for all 5 travelers at https://vjw-lp.digital.go.jp/en/. This creates a QR code that speeds up Narita immigration. Do this 1-2 days before your March 30 Japan arrival at the latest, but you can start now.
+- [ ] **Visit Japan Web registration** — Pre-register immigration & customs declarations for all 5 travelers at [https://vjw-lp.digital.go.jp/en/](https://vjw-lp.digital.go.jp/en/). This creates a QR code that speeds up Narita immigration. Do this 1-2 days before your March 30 Japan arrival at the latest, but you can start now.
 - [x] **Internet access** — Using **Verizon TravelPass** ($10/day per line, only charged on days you use it in Taiwan/Japan). Make sure TravelPass is enabled on your Verizon account before departure. It activates automatically when you use data abroad.
 - [ ] **Download offline maps** — Google Maps allows offline map downloads for Tokyo, Osaka, and Taipei. Do this on home WiFi as a backup.
 - [ ] **Download Google Translate** — Download Japanese and Chinese (Traditional) language packs for offline camera translation.
